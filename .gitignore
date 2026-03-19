@@ -11,6 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
+*.min.js
+*-REPORT.*
 
 # Editor directories and files
 .vscode/*
